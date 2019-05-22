@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AmazingSylhet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Contact Us</string>
+    <string name="about">About App</string>
+
+    <string name="tex1">Bisnakandi is a village situated in Rustompur Union under Guainghat Upazilla. This is where many layers of the Khasi mountain meet at a single point from both sides. Flowing from above is a high fall. Adding to its charm are dark clouds hugging the mountain in the rainy season. And flowing underneath towards Bholaganj is a branch of the Piyain. Along the stream flowing from high up in the mountain come huge boulders that are deposited and mined in Bisnakandi. </string>
+    <string name="bisnatxtsample">  Distance from Sylhet city\n 40km\n\n Location\n
+    Rustompur, Guainghat\n
+    Sylhet\n\n Best time to visit\n
+    April-September</string>
+
+    <string name="tex2"> Panthumai – a village from West Jaflong Union under Guainghat Upazilla – is another tourism hub in Sylhet. The village, which is very near to the east Khasia hill of the Meghalaya ranges, boasts of an eye-catching fall popularly known as Borhill Fall. Though the main fall is geographically located in the Indian territory, people can enjoy its enormous splendour head-on. Flowing from the Borhill Fall is a branch of the river Piyain that heads west and leads to Bisnakandi, another major tourist spot.  </string>
+    <string name="panthutxtsample">  Distance from Sylhet city\n 70km\n\n Location\n
+    Panthumai, Guainghat\n
+    Sylhet\n\n Best time to visit\n
+    April-October</string>
+
+    <string name="tex3">The shades of far-flung hills falling on the crystal clear streams of the Lova make for a heavenly sight. The Lovachora Tea Garden is spread over a wide area from the river bank to the slopes of the hills. Still preserved in the garden is a tea factory ravaged in the War of Liberation in 1971. Together with an antique cottage, it is a must-see for visitors. The hilltop cottage is popularly known as Fergusson Bungalow, named after the Fergusson family who set up the tea garden.</string>
+    <string name="lovatxtsample">Distance from Sylhet city\n 62km\n\n Location\n
+    Lovachora, Kanaighat \n
+    Sylhet\n\n Best time to visit\n
+    April-October</string>
+
+    <string name="jaflo">Despite the loss of its former splendour due to unrestricted mining and crushing of stones, Jaflong is still a ‘must-see’ destination for tourists visiting Sylhet. Flowing from the north Khasi mountains, the river Dauki enters Bangladesh under the name ‘Piyain’, along the bank of which lies the spectacular Jaflong.Jaflong is in the East Jaflong Union under Guainghat Upazilla. Visitors can hire boats to go to the Zero Point and see the beautiful hanging bridge over the Dauki.\nJust across the river on the western side are the villages Sangrampunji and Nakshiapunji, which are accessible through ferries or rented boats. Just beside Nakshiapunji is Jaflong Tea Garden which is a top tourist attraction. </string>
+    <string name="jafltxtsample">Distance from Sylhet city\n 62km\n\n Location\n
+    Jaflong, Guainghat \n
+    Sylhet\n\n Best time to visit\n
+    April-October</string>
+
+    <string name="ratarg">Ratargul is the only freshwater swamp forest in Bangladesh. Despite its existence over a vast stretch of swampland in the not too distant past, the swamp forest now occupies an area of only two square kilometres. A dense forest comprising mostly native hijol and koroch trees, Ratargul offers a sanctuary for different species of birds, monkeys, snakes and other reptiles. </string>
+    <string name="ratatxtsample">Distance from Sylhet city\n 21km\n\n Location\n
+    Ratargul, Guainghat \n
+    Sylhet\n\n Best time to visit\n
+    April-October</string>
+
+
+    <string name="khadimnagar">Sylhet-Jaflong Highway past the Shrine of Shah Paran is Khadimnagar Intersection. A left turn from there leads to Khadimnagar Tea Garden. Waiting to greet tourists with its absorbing lush green warmth just about five kilometres from the Highway through the tea gardens is Khadimnagar Rainforest comprising1,673 acres of hills and natural forest surrounded by six tea gardens — Choragang and Habibnagar on the East, Borjan and Kalagul on the West, Gulni on the North, and Khadimnagar on the South. Officially recognised as a national forest, Khadimnagar Rainforest operates with support from USAID. </string>
+    <string name="khadimtxtsample">Distance from Sylhet city\n 10km\n\n Location\n
+    Khadimnagar, Shahporhan \n
+    Sylhet\n\n Best time to visit\n
+    October-February</string>
+
+    <string name="title_activity_maps_two">Map</string>
+    <string name="title_activity_scroll_test">Restaurants In Sylhet</string>
+
+    <string name="pansifood">
+        Pansi Restaurant\nJallarpar road, Zindabazar\nSylhet\nContact: 01761-152939</string>
+    <string name="VujonBari">
+        Bhojon Bari Restaurant\nJallarpar Road, Zindabazar\nSylhet\nContact: 01793-670000</string>
+
+    <string name="mughmas">
+        Mughal Masala\nDargah Gate, Sylhet\nContact: 01742033333</string>
+    <string name="eatopia">
+        Eatopia Restaurant\nEast Zindabazar, Sylhet\nContact: 01617123321</string>
+
+    <string name="recent_news">About Sylhet Division</string>
+    <string name="in_news">Sylhet (Bengali: সিলেট), also known as Jalalabad, is a metropolitan city in northeastern Bangladesh. It is the administrative seat of Sylhet Division. The city is located on the right bank of the Surma River in northeastern Bengal. It has a subtropical climate and lush highland terrain. The city has a population of more than half a million.Sylhet is one of Bangladesh most important spiritual and cultural centres. It is one of the most important cities of Bangladesh, after Dhaka and Chittagong due to its importance to the country economy. The city dargahs, or burial sites of Muslim saints, attract several thousand devotees each year.
+The name of Sylhet is the anglicized form of the ancient Indo-Aryan term Srihatta.In 1303, the Sufi Muslim leader Shah Jalal conquered Sylhet by defeating the local Hindu Raja. Ibn Battuta visited Sylhet in the 14th century and saw Bengali Muslims transforming the region into an agricultural basket.Sylhet was a mint town of the Bengal Sultanate. In the 16th-century, Sylhet was controlled by the Baro-Bhuyan zamindars and became a district of the Mughal Empire.British rule began in the 18th century under the administration of the East India Company. With its ancient seafaring tradition, Sylhet became a key source of lascars in the British Empire. The Sylhet municipal board was established in 1867. Originally part of the Bengal Presidency and later Eastern Bengal and Assam; the town was part of Colonial Assam between 1874 and 1947, when following a referendum and the partition of British India, it became part of East Bengal.The Sylhet City Corporation was constituted in 2001. The Government of Bangladesh designated Sylhet a metropolitan area in 2009.
+The hinterland of the Sylhet valley is the largest oil and gas-producing region in Bangladesh. It is also the largest hub of tea production in Bangladesh. It is notable for its high-quality cane and agarwood.The city is served by the Osmani International Airport which is named after General M A G Osmani, the Commander of the Bangladesh Liberation Forces. People from Sylhet form a significant portion of the Bangladeshi diaspora, particularly in Great Britain and the United States of America.</string>
+    <string name="publish_date">2018-01-12 12:00:00</string>
+
+
+</resources>

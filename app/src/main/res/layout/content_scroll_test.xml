@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.starting.amazingsylhet.ScrollTestActivity"
+    tools:showIn="@layout/activity_scroll_test">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:layout_width="300dp"
+            android:layout_height="260dp"
+            android:id="@+id/imabtn1"
+            android:layout_gravity="center"
+            android:src="@drawable/panshiant"/>
+
+        <TextView
+            android:paddingLeft="15dp"
+            android:id="@+id/txtsa1"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pansifood"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+        <ImageButton
+            android:paddingTop="5dp"
+            android:layout_width="300dp"
+            android:layout_height="260dp"
+            android:id="@+id/imabtn2"
+            android:layout_gravity="center"
+            android:src="@drawable/vv"/>
+
+        <TextView
+            android:paddingLeft="15dp"
+            android:id="@+id/txtsa2"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/VujonBari"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+
+        <ImageButton
+            android:paddingTop="5dp"
+            android:layout_width="300dp"
+            android:layout_height="260dp"
+            android:id="@+id/imabtn3"
+            android:layout_gravity="center"
+            android:src="@drawable/mughal"/>
+
+        <TextView
+            android:paddingLeft="15dp"
+            android:id="@+id/txtsa3"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mughmas"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+        <ImageButton
+            android:paddingTop="5dp"
+            android:layout_width="300dp"
+            android:layout_height="260dp"
+            android:id="@+id/imabtn4"
+            android:layout_gravity="center"
+            android:src="@drawable/eatsyl"/>
+
+        <TextView
+            android:paddingLeft="15dp"
+            android:id="@+id/txtsa4"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/eatopia"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

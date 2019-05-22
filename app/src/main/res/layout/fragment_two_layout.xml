@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="panthumai"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:textSize="20pt"
+            android:textColor="@color/colorho"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/panthumai" />
+
+        <TextView
+            android:paddingTop="8dp"
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tex2"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:paddingTop="8dp"
+            android:id="@+id/sampletxt2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/panthutxtsample"
+            android:textSize="20sp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            />
+
+        <Button
+            android:paddingTop="5dp"
+            android:id="@+id/buttonthree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MORE   DETAILS"
+            android:layout_margin="20dp"
+            android:padding="15dp"
+            android:background="#00aee5"
+            android:textColor="#fff"
+            android:textSize="19sp"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
